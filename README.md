@@ -11,7 +11,7 @@ Excited to take on new challenges, I'm ready to contribute my expertise and pass
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,c,react,vue,nodejs,express,nextjs,nuxtjs,nestjs,mysql,postgres,docker,rabbitmq,redis,tailwind,md,figma,githubactions,aws&perline=13" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,go,c,react,vue,nodejs,express,nextjs,nuxtjs,nestjs,mysql,postgres,mongo,redis,docker,rabbitmq,tailwind,md,figma,githubactions,aws&perline=13" />
   </a>
 </p>
 
